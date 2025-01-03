@@ -76,7 +76,7 @@ const Card = (
     }
 ) => {
   return (
-    <div className='card group relative  rounded-t-3xl w-full bg- gap-1 m-1 flex flex-col items-center my-3 h-56 justify-center md:min-w-[544px] md:max-w-[544px] overflow-hidden min-w-[300px]'>
+    <div className='card group relative  rounded-t-3xl w-full bg- gap-1 m-1 flex flex-col items-center my-3 h-56 justify-center md:min-w-[544px] md:max-w-[544px] overflow-hidden min-w-[300px] bg-bg'>
                     <h1 className='text-xl font-serif font-bold'>{clgName}</h1>
                     <h1 className='text-lg font-bold text-yellow-600'>{year}</h1>
                     <h1 className='text-xl  font-bold'>{course}</h1>

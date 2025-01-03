@@ -29,7 +29,6 @@ background-color: #000000;
   to{scale:1 1;}
 }*/
 .card{
-  background-image: url('cardbg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
